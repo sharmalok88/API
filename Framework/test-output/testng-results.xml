@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2079" started-at="2020-08-02T13:12:55Z" finished-at="2020-08-02T13:12:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="2079" started-at="2020-08-02T13:12:55Z" finished-at="2020-08-02T13:12:57Z">
+      <class name="org.testing.TestScripts.getRequestUsingQuery">
+        <test-method status="PASS" signature="getRequestUsingQueryParameter()[pri:0, instance:org.testing.TestScripts.getRequestUsingQuery@3bbc39f8]" name="getRequestUsingQueryParameter" duration-ms="157" started-at="2020-08-02T18:42:57Z" finished-at="2020-08-02T18:42:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequestUsingQueryParameter -->
+      </class> <!-- org.testing.TestScripts.getRequestUsingQuery -->
+      <class name="org.testing.TestScripts.getRequestTC">
+        <test-method status="PASS" signature="getRequestUsingEndpoint()[pri:0, instance:org.testing.TestScripts.getRequestTC@5ea434c8]" name="getRequestUsingEndpoint" duration-ms="77" started-at="2020-08-02T18:42:57Z" finished-at="2020-08-02T18:42:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequestUsingEndpoint -->
+      </class> <!-- org.testing.TestScripts.getRequestTC -->
+      <class name="org.testing.TestScripts.postRequestTC">
+        <test-method status="PASS" signature="postRequest()[pri:0, instance:org.testing.TestScripts.postRequestTC@4de5031f]" name="postRequest" duration-ms="1599" started-at="2020-08-02T18:42:55Z" finished-at="2020-08-02T18:42:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postRequest -->
+      </class> <!-- org.testing.TestScripts.postRequestTC -->
+      <class name="org.testing.TestScripts.deleteRequestTC">
+        <test-method status="PASS" signature="deleteRequest()[pri:0, instance:org.testing.TestScripts.deleteRequestTC@568bf312]" name="deleteRequest" duration-ms="61" started-at="2020-08-02T18:42:57Z" finished-at="2020-08-02T18:42:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteRequest -->
+      </class> <!-- org.testing.TestScripts.deleteRequestTC -->
+      <class name="org.testing.TestScripts.putRequestTC">
+        <test-method status="PASS" signature="PutRequest()[pri:0, instance:org.testing.TestScripts.putRequestTC@4ae3c1cd]" name="PutRequest" duration-ms="54" started-at="2020-08-02T18:42:57Z" finished-at="2020-08-02T18:42:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PutRequest -->
+      </class> <!-- org.testing.TestScripts.putRequestTC -->
+      <class name="org.testing.TestScripts.patchRequestTC">
+        <test-method status="PASS" signature="patchRequest()[pri:0, instance:org.testing.TestScripts.patchRequestTC@29f69090]" name="patchRequest" duration-ms="52" started-at="2020-08-02T18:42:57Z" finished-at="2020-08-02T18:42:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patchRequest -->
+      </class> <!-- org.testing.TestScripts.patchRequestTC -->
+      <class name="org.testing.TestScripts.put_Multiple">
+        <test-method status="PASS" signature="PutRequestMul()[pri:0, instance:org.testing.TestScripts.put_Multiple@ca263c2]" name="PutRequestMul" duration-ms="5" started-at="2020-08-02T18:42:57Z" finished-at="2020-08-02T18:42:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PutRequestMul -->
+      </class> <!-- org.testing.TestScripts.put_Multiple -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
